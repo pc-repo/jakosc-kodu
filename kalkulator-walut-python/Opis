@@ -1,1 +1,11 @@
+Pliki składowe:
+  
+  logika.py – główny plik projektu
+	ui_gui_beta.py – plik z definicjami GUI
+	gui_beta.ui - plik stylów Qt Designer
+	logika_refact.py - przykład refaktoryzowania metodami AI
 
+Uwaga! Aplikacja wymaga biblioteki PySide6.
+
+Używanie rozpoczynamy od synchronizacji z serwerem kursów NBP ("Synchronizuj").
+Wybieramy walutę i kierunek przeliczenia oraz kwotę.
